@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดเก็บข้อมูลเอกสาร โรงเรียนบ้านห้วยมุ่น",
+  "description": "ระบบจัดเก็บข้อมูล เอกสาร รายงาน โรงเรียนบ้านห้วยมุ่น สพป.เลย เขต 3 เชื่อมต่อ Google Drive และ Google Sheets สำหรับงานทั้ง 5 ฝ่าย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
